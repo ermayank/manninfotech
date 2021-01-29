@@ -1,0 +1,25 @@
+header {
+    background: url(../res/hero.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+  }
+.specific-form{
+    background-color: lightyellow;
+}
+
+.wrapper{
+    margin: 10% 0 0 10%;
+    border-left: 6px solid orange;
+    overflow: hidden;
+  }
+h1{
+    font-size: 10vw;
+    color: white;
+    line-height: 0.8;
+    letter-spacing: -5px;
+  }
+.introline{
+    color: orange;
+    font-size: large;
+}
